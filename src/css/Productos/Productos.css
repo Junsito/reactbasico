@@ -1,0 +1,146 @@
+/* src/css/Principal/Principal.css */
+.main-container {
+    padding: 20px;
+}
+
+.content-section {
+    margin-top: 20px;
+}
+
+.react-dataTable {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para la cuadrícula de productos */
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.content-section {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    /* 3 columnas de igual tamaño */
+    grid-template-rows: repeat(3, auto);
+    /* 3 filas con tamaño automático */
+    gap: 20px;
+    /* Espacio entre las tarjetas */
+    padding: 20px;
+    width: 100%;
+    max-width: 1200px;
+    /* Ajusta el máximo ancho */
+}
+
+/* Para pantallas más pequeñas, apilar las tarjetas */
+@media (max-width: 768px) {
+    .content-section {
+      grid-template-columns: 1fr; /* En pantallas pequeñas, mostrar 1 columna */
+    }
+  }
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Estilos para la tarjeta de producto */
+.producto-card {
+    width: 100%;
+    /* La tarjeta ocupa todo el ancho disponible */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+.producto-card-image {
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+}
+
+.producto-card-content {
+    padding: 15px;
+    text-align: center;
+    position: relative;
+}
+
+.producto-card-price {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+    position: absolute;
+    top: 10px;
+    left: 15%;
+    transform: translateX(-50%);
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.producto-card-content h5 {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+}
+
+.producto-card-content button {
+    width: 100%;
+    margin-top: 10px;
+    /* Asegura que el botón esté debajo del contenido */
+}
+
+.pagination-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.pagination-container-class {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border-radius: 10px;
+}
+
+.pagination-container-class li {
+    margin: 0 5px;
+}
+
+.pagination-container-class a {
+    color: #007bff;
+    text-decoration: none;
+    padding: 10px 15px;
+    border: 2px solid #007bff;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.pagination-container-class a:hover {
+    background-color: #007bff;
+    color: white;
+}
+
+.pagination-container-class .active-page a {
+    background-color: #007bff;
+    color: white;
+    border: 2px solid #0056b3;
+}
+
+.pagination-container-class .disabled-page a {
+    color: #ccc;
+    cursor: not-allowed;
+}
+
+.pagination-container-class .previous,
+.pagination-container-class .next {
+    font-weight: bold;
+}

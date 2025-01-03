@@ -1,0 +1,8 @@
+/* Estilos para el enlace activo */
+.nav-link.active {
+    font-weight: bold;
+    color: #007bff;
+    /* Cambia el color a azul cuando el enlace está activo */
+    border-bottom: 2px solid #007bff;
+    /* Agrega una línea debajo del enlace activo */
+}

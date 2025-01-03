@@ -1,0 +1,72 @@
+/* src/pages/Principal.css */
+
+.main-container {
+  display: flex; /* Utilizamos Flexbox para colocar las secciones */
+  align-items: center; /* Centra verticalmente el contenido dentro de cada sección */
+  justify-content: space-between; /* Espacia las secciones */
+  margin: 20px; /* Un poco de margen alrededor */
+}
+
+.image-section {
+  flex: 1; /* Toma una fracción del espacio disponible */
+  padding: 20px;
+}
+
+.image-section img {
+  width: 100%; /* Asegura que la imagen ocupe todo el ancho disponible */
+  height: auto; /* Mantiene la relación de aspecto de la imagen */
+  border-radius: 8px; /* Le da bordes redondeados a la imagen */
+}
+
+.content-section {
+  flex: 2; /* Toma el doble de espacio que la imagen */
+  padding: 20px;
+}
+
+.content-section h2 {
+  color: #333; /* Color del título */
+  font-size: 2rem; /* Tamaño del título */
+  margin-bottom: 20px; /* Separación entre el título y el párrafo */
+}
+
+.content-section p {
+  color: #555; /* Color del texto */
+  font-size: 1.1rem; /* Tamaño del texto */
+  line-height: 1.6; /* Espaciado entre líneas */
+}
+
+/* Carrusel - Estilo de las flechas */
+.carousel-control-prev, .carousel-control-next {
+  font-size: 30px; /* Tamaño grande de las flechas */
+  width: 50px; /* Tamaño del área clickeable */
+  height: 50px; /* Tamaño del área clickeable */
+  background-color: rgba(0, 0, 0, 0.5); /* Fondo oscuro de las flechas */
+  border-radius: 50%; /* Hacer las flechas circulares */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 50%; /* Centrar verticalmente */
+  transform: translateY(-50%); /* Ajustar la posición al centro */
+}
+
+.carousel-control-prev {
+  left: 10px; /* Ajusta la distancia desde el borde izquierdo */
+}
+
+.carousel-control-next {
+  right: 10px; /* Ajusta la distancia desde el borde derecho */
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  background-color: black; /* Color blanco para las flechas */
+}
+
+.carousel-control-prev:hover, .carousel-control-next:hover {
+  background-color: rgba(0, 0, 0, 0.7); /* Efecto al pasar el ratón */
+}
+
+.carousel-caption h3, .carousel-caption p {
+  color: black; /* Aseguramos que el texto sea blanco para un buen contraste */
+}
+

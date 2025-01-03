@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+  <producto>
+    <id>1</id>
+    <nombre>Coca-Cola</nombre>
+    <precio>1.50</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>2</id>
+    <nombre>Pepsi</nombre>
+    <precio>1.45</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>3</id>
+    <nombre>Fanta</nombre>
+    <precio>1.30</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>4</id>
+    <nombre>Sprite</nombre>
+    <precio>1.20</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>5</id>
+    <nombre>Jack Daniel's</nombre>
+    <precio>25.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>6</id>
+    <nombre>Ron Negrita</nombre>
+    <precio>15.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>7</id>
+    <nombre>Martini</nombre>
+    <precio>20.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>8</id>
+    <nombre>Absolut Vodka</nombre>
+    <precio>18.50</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>9</id>
+    <nombre>Don Simón</nombre>
+    <precio>3.50</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>10</id>
+    <nombre>Red Bull</nombre>
+    <precio>2.50</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>11</id>
+    <nombre>Monster</nombre>
+    <precio>2.75</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>12</id>
+    <nombre>Jack Daniel's Honey</nombre>
+    <precio>27.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>13</id>
+    <nombre>Häagen-Dazs</nombre>
+    <precio>5.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>14</id>
+    <nombre>Smirnoff</nombre>
+    <precio>19.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>15</id>
+    <nombre>Corona Extra</nombre>
+    <precio>8.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>16</id>
+    <nombre>Heineken</nombre>
+    <precio>8.50</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>17</id>
+    <nombre>Budweiser</nombre>
+    <precio>7.50</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>18</id>
+    <nombre>San Miguel</nombre>
+    <precio>6.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>19</id>
+    <nombre>Glenfiddich</nombre>
+    <precio>45.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>20</id>
+    <nombre>Chivas Regal</nombre>
+    <precio>40.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>21</id>
+    <nombre>Johnnie Walker</nombre>
+    <precio>35.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>22</id>
+    <nombre>Jim Beam</nombre>
+    <precio>22.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>23</id>
+    <nombre>Baileys Irish Cream</nombre>
+    <precio>25.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>24</id>
+    <nombre>Jägermeister</nombre>
+    <precio>28.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>25</id>
+    <nombre>Tanqueray</nombre>
+    <precio>30.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>26</id>
+    <nombre>Absolut Raspberri</nombre>
+    <precio>18.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>27</id>
+    <nombre>Jack Daniel's Tennessee Honey</nombre>
+    <precio>25.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>28</id>
+    <nombre>Ron Barceló</nombre>
+    <precio>15.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>29</id>
+    <nombre>Absolut Elyx</nombre>
+    <precio>22.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>30</id>
+    <nombre>Ballantine's</nombre>
+    <precio>24.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>31</id>
+    <nombre>Jack Daniel's Old No. 7</nombre>
+    <precio>27.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>32</id>
+    <nombre>Jameson Irish Whiskey</nombre>
+    <precio>32.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>33</id>
+    <nombre>Gin Mare</nombre>
+    <precio>35.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>34</id>
+    <nombre>Bombay Sapphire</nombre>
+    <precio>28.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>35</id>
+    <nombre>Patrón Tequila</nombre>
+    <precio>40.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>36</id>
+    <nombre>Don Julio</nombre>
+    <precio>45.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>37</id>
+    <nombre>Cuervo Especial</nombre>
+    <precio>18.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>38</id>
+    <nombre>Tequila Herradura</nombre>
+    <precio>35.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>39</id>
+    <nombre>Havana Club</nombre>
+    <precio>20.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>40</id>
+    <nombre>Ron Diplomático</nombre>
+    <precio>30.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>41</id>
+    <nombre>Casillero del Diablo</nombre>
+    <precio>15.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>42</id>
+    <nombre>Vega Sicilia</nombre>
+    <precio>60.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>43</id>
+    <nombre>Wines of Argentina</nombre>
+    <precio>18.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>44</id>
+    <nombre>Campo Viejo</nombre>
+    <precio>12.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>45</id>
+    <nombre>Protos</nombre>
+    <precio>22.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>46</id>
+    <nombre>Moritz</nombre>
+    <precio>5.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>47</id>
+    <nombre>Estrella Damm</nombre>
+    <precio>6.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>48</id>
+    <nombre>Kingfisher</nombre>
+    <precio>7.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>49</id>
+    <nombre>Gordon's Gin</nombre>
+    <precio>20.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+  <producto>
+    <id>50</id>
+    <nombre>Grey Goose</nombre>
+    <precio>45.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+  </producto>
+</productos>
