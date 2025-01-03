@@ -39,9 +39,53 @@
 /* Para pantallas más pequeñas, apilar las tarjetas */
 @media (max-width: 768px) {
     .content-section {
-      grid-template-columns: 1fr; /* En pantallas pequeñas, mostrar 1 columna */
+        grid-template-columns: 1fr;
+        /* En pantallas pequeñas, mostrar 1 columna */
     }
-  }
+
+    /* Para pantallas más pequeñas, se puede hacer ajustes adicionales si es necesario */
+    .filter-label {
+        font-size: 1rem;
+        /* Reducir el tamaño del texto en pantallas muy pequeñas */
+    }
+
+    .category-select {
+        font-size: 0.9rem;
+        /* Reducir el tamaño del texto para el select */
+        width: 100%;
+        /* Asegurarse de que ocupe el 100% del contenedor */
+    }
+
+    .pagination-container-class a {
+        padding: 6px 12px;
+        /* Ajustar el tamaño de los botones de paginación */
+        font-size: 0.9rem;
+        /* Reducir el tamaño de fuente */
+    }
+
+    .filter-container {
+        flex-direction: row;
+        gap: 15px;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+}
+
+@media (max-width: 480px) {
+    .filter-container {
+        flex-direction: column;
+        /* Asegurar que en pantallas muy pequeñas se apilen */
+        align-items: flex-start;
+    }
+
+    .category-select {
+        width: 100%;
+        /* Hacer que el select ocupe todo el ancho en pantallas pequeñas */
+        font-size: 0.9rem;
+        /* Reducir tamaño de la fuente */
+    }
+}
 
 h2 {
     text-align: center;
@@ -143,4 +187,59 @@ h2 {
 .pagination-container-class .previous,
 .pagination-container-class .next {
     font-weight: bold;
+}
+
+
+/* Estilos generales para el filtro */
+.filter-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    /* Espacio inferior */
+    padding: 10px;
+}
+
+.filter-label {
+    font-size: 1.2rem;
+    /* Tamaño de fuente */
+    color: #333;
+    /* Color del texto */
+    font-weight: bold;
+    /* Hacer el texto más fuerte */
+    margin-bottom: 8px;
+    /* Espacio debajo de la etiqueta */
+    transition: color 0.3s ease;
+    /* Transición para cambio de color */
+}
+
+.category-select {
+    width: 100%;
+    padding: 12px 16px;
+    font-size: 1rem;
+    /* Tamaño de texto */
+    color: #333;
+    border-radius: 8px;
+    /* Bordes redondeados */
+    border: 2px solid #ddd;
+    /* Borde gris claro */
+    background-color: #f9f9f9;
+    /* Fondo claro */
+    cursor: pointer;
+    /* Cursor de puntero */
+    outline: none;
+    /* Elimina el contorno por defecto */
+    transition: border-color 0.3s, background-color 0.3s;
+    /* Transición suave */
+}
+
+.category-select:focus {
+    border-color: #007bff;
+    /* Borde azul cuando está en foco */
+    background-color: #e6f7ff;
+    /* Fondo azul claro cuando se enfoca */
+}
+
+.category-select:hover {
+    background-color: #f0f0f0;
+    /* Fondo gris claro cuando pasas el cursor */
 }

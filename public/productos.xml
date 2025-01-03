@@ -5,299 +5,699 @@
     <nombre>Coca-Cola</nombre>
     <precio>1.50</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Bebidas Gaseosas</categoria>
   </producto>
   <producto>
     <id>2</id>
     <nombre>Pepsi</nombre>
     <precio>1.45</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Bebidas Gaseosas</categoria>
   </producto>
   <producto>
     <id>3</id>
     <nombre>Fanta</nombre>
     <precio>1.30</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Bebidas Gaseosas</categoria>
   </producto>
   <producto>
     <id>4</id>
     <nombre>Sprite</nombre>
     <precio>1.20</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Bebidas Gaseosas</categoria>
   </producto>
   <producto>
     <id>5</id>
     <nombre>Jack Daniel's</nombre>
     <precio>25.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>6</id>
     <nombre>Ron Negrita</nombre>
     <precio>15.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>7</id>
     <nombre>Martini</nombre>
     <precio>20.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>8</id>
     <nombre>Absolut Vodka</nombre>
     <precio>18.50</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>9</id>
     <nombre>Don Simón</nombre>
     <precio>3.50</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Bebidas Gaseosas</categoria>
   </producto>
   <producto>
     <id>10</id>
     <nombre>Red Bull</nombre>
     <precio>2.50</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Bebidas Energéticas</categoria>
   </producto>
   <producto>
     <id>11</id>
     <nombre>Monster</nombre>
     <precio>2.75</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Bebidas Energéticas</categoria>
   </producto>
   <producto>
     <id>12</id>
     <nombre>Jack Daniel's Honey</nombre>
     <precio>27.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>13</id>
     <nombre>Häagen-Dazs</nombre>
     <precio>5.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Helados</categoria>
   </producto>
   <producto>
     <id>14</id>
     <nombre>Smirnoff</nombre>
     <precio>19.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>15</id>
     <nombre>Corona Extra</nombre>
     <precio>8.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Cervezas</categoria>
   </producto>
   <producto>
     <id>16</id>
     <nombre>Heineken</nombre>
     <precio>8.50</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Cervezas</categoria>
   </producto>
   <producto>
     <id>17</id>
     <nombre>Budweiser</nombre>
     <precio>7.50</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Cervezas</categoria>
   </producto>
   <producto>
     <id>18</id>
     <nombre>San Miguel</nombre>
     <precio>6.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Cervezas</categoria>
   </producto>
   <producto>
     <id>19</id>
     <nombre>Glenfiddich</nombre>
     <precio>45.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>20</id>
     <nombre>Chivas Regal</nombre>
     <precio>40.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>21</id>
     <nombre>Johnnie Walker</nombre>
     <precio>35.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>22</id>
     <nombre>Jim Beam</nombre>
     <precio>22.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>23</id>
     <nombre>Baileys Irish Cream</nombre>
     <precio>25.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>24</id>
     <nombre>Jägermeister</nombre>
     <precio>28.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>25</id>
     <nombre>Tanqueray</nombre>
     <precio>30.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>26</id>
     <nombre>Absolut Raspberri</nombre>
     <precio>18.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>27</id>
     <nombre>Jack Daniel's Tennessee Honey</nombre>
     <precio>25.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>28</id>
     <nombre>Ron Barceló</nombre>
     <precio>15.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>29</id>
     <nombre>Absolut Elyx</nombre>
     <precio>22.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>30</id>
     <nombre>Ballantine's</nombre>
     <precio>24.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>31</id>
     <nombre>Jack Daniel's Old No. 7</nombre>
     <precio>27.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>32</id>
     <nombre>Jameson Irish Whiskey</nombre>
     <precio>32.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>33</id>
     <nombre>Gin Mare</nombre>
     <precio>35.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>34</id>
     <nombre>Bombay Sapphire</nombre>
     <precio>28.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>35</id>
     <nombre>Patrón Tequila</nombre>
     <precio>40.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>36</id>
     <nombre>Don Julio</nombre>
     <precio>45.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>37</id>
     <nombre>Cuervo Especial</nombre>
     <precio>18.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>38</id>
     <nombre>Tequila Herradura</nombre>
     <precio>35.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>39</id>
     <nombre>Havana Club</nombre>
     <precio>20.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>40</id>
     <nombre>Ron Diplomático</nombre>
     <precio>30.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>41</id>
     <nombre>Casillero del Diablo</nombre>
     <precio>15.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Vinos</categoria>
   </producto>
   <producto>
     <id>42</id>
     <nombre>Vega Sicilia</nombre>
     <precio>60.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Vinos</categoria>
   </producto>
   <producto>
     <id>43</id>
     <nombre>Wines of Argentina</nombre>
     <precio>18.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Vinos</categoria>
   </producto>
   <producto>
     <id>44</id>
     <nombre>Campo Viejo</nombre>
     <precio>12.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Vinos</categoria>
   </producto>
   <producto>
     <id>45</id>
     <nombre>Protos</nombre>
     <precio>22.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Vinos</categoria>
   </producto>
   <producto>
     <id>46</id>
     <nombre>Moritz</nombre>
     <precio>5.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Cervezas</categoria>
   </producto>
   <producto>
     <id>47</id>
     <nombre>Estrella Damm</nombre>
     <precio>6.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Cervezas</categoria>
   </producto>
   <producto>
     <id>48</id>
     <nombre>Kingfisher</nombre>
     <precio>7.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Cervezas</categoria>
   </producto>
   <producto>
     <id>49</id>
     <nombre>Gordon's Gin</nombre>
     <precio>20.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
   </producto>
   <producto>
     <id>50</id>
     <nombre>Grey Goose</nombre>
     <precio>45.00</precio>
     <imagen>placeholder-image.jpg</imagen>
+    <categoria>Licores</categoria>
+  </producto>
+  <producto>
+    <id>51</id>
+    <nombre>Chicles Orbit</nombre>
+    <precio>2.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>52</id>
+    <nombre>Gominolas Haribo</nombre>
+    <precio>3.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>53</id>
+    <nombre>Patatas Fritas Lay's</nombre>
+    <precio>1.80</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Patatas Fritas</categoria>
+  </producto>
+  <producto>
+    <id>54</id>
+    <nombre>Palotes</nombre>
+    <precio>1.50</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>55</id>
+    <nombre>Chicles Trident</nombre>
+    <precio>2.50</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>56</id>
+    <nombre>Patatas Fritas Pringles</nombre>
+    <precio>2.80</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Patatas Fritas</categoria>
+  </producto>
+  <producto>
+    <id>57</id>
+    <nombre>Gominolas Trolli</nombre>
+    <precio>3.20</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>58</id>
+    <nombre>Chocolate Lindt</nombre>
+    <precio>4.50</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chocolates</categoria>
+  </producto>
+  <producto>
+    <id>59</id>
+    <nombre>Chicles Juicy Fruit</nombre>
+    <precio>1.80</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>60</id>
+    <nombre>Patatas Fritas Ruffles</nombre>
+    <precio>1.60</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Patatas Fritas</categoria>
+  </producto>
+  <producto>
+    <id>61</id>
+    <nombre>Chuches de Regaliz</nombre>
+    <precio>2.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>62</id>
+    <nombre>Galletas Oreo</nombre>
+    <precio>3.50</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Dulces</categoria>
+  </producto>
+  <producto>
+    <id>63</id>
+    <nombre>Chocolate Milka</nombre>
+    <precio>4.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chocolates</categoria>
+  </producto>
+  <producto>
+    <id>64</id>
+    <nombre>Patatas Fritas Bonilla</nombre>
+    <precio>3.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Patatas Fritas</categoria>
+  </producto>
+  <producto>
+    <id>65</id>
+    <nombre>Chicles Dentyne</nombre>
+    <precio>2.20</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>66</id>
+    <nombre>Gominolas Haribo Gold Bears</nombre>
+    <precio>3.80</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>67</id>
+    <nombre>Patatas Fritas Lay's Ondas</nombre>
+    <precio>2.20</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Patatas Fritas</categoria>
+  </producto>
+  <producto>
+    <id>68</id>
+    <nombre>Chocolate Kinder</nombre>
+    <precio>2.90</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chocolates</categoria>
+  </producto>
+  <producto>
+    <id>69</id>
+    <nombre>Chicles Mentos</nombre>
+    <precio>1.70</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>70</id>
+    <nombre>Patatas Fritas Lay's Classic</nombre>
+    <precio>1.50</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Patatas Fritas</categoria>
+  </producto>
+  <producto>
+    <id>71</id>
+    <nombre>Chocolates Ferrero Rocher</nombre>
+    <precio>5.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chocolates</categoria>
+  </producto>
+  <producto>
+    <id>72</id>
+    <nombre>Gominolas de Vaca</nombre>
+    <precio>2.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>73</id>
+    <nombre>Chicles Trident Tropical</nombre>
+    <precio>2.30</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>74</id>
+    <nombre>Patatas Fritas Lay's Piquillo</nombre>
+    <precio>2.50</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Patatas Fritas</categoria>
+  </producto>
+  <producto>
+    <id>75</id>
+    <nombre>Chicles Extra Sin Azúcar</nombre>
+    <precio>2.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>76</id>
+    <nombre>Galletas Chips Ahoy!</nombre>
+    <precio>3.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Dulces</categoria>
+  </producto>
+  <producto>
+    <id>77</id>
+    <nombre>Gominolas de Cola</nombre>
+    <precio>2.50</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>78</id>
+    <nombre>Patatas Fritas Ruffles Paprika</nombre>
+    <precio>2.60</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Patatas Fritas</categoria>
+  </producto>
+  <producto>
+    <id>79</id>
+    <nombre>Chocolates Nestlé</nombre>
+    <precio>2.80</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chocolates</categoria>
+  </producto>
+  <producto>
+    <id>80</id>
+    <nombre>Gominolas de Frutas</nombre>
+    <precio>3.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>81</id>
+    <nombre>Patatas Fritas Lay's Barbacoa</nombre>
+    <precio>2.20</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Patatas Fritas</categoria>
+  </producto>
+  <producto>
+    <id>82</id>
+    <nombre>Chocolates Toblerone</nombre>
+    <precio>4.20</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chocolates</categoria>
+  </producto>
+  <producto>
+    <id>83</id>
+    <nombre>Chicles 5 Gum</nombre>
+    <precio>2.10</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>84</id>
+    <nombre>Galletas Digestive</nombre>
+    <precio>3.30</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Dulces</categoria>
+  </producto>
+  <producto>
+    <id>85</id>
+    <nombre>Chicles Bubbaloo</nombre>
+    <precio>1.90</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>86</id>
+    <nombre>Patatas Fritas Bonilla del Valle</nombre>
+    <precio>3.10</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Patatas Fritas</categoria>
+  </producto>
+  <producto>
+    <id>87</id>
+    <nombre>Gominolas de Fresa</nombre>
+    <precio>2.40</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>88</id>
+    <nombre>Chocolates Godiva</nombre>
+    <precio>6.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chocolates</categoria>
+  </producto>
+  <producto>
+    <id>89</id>
+    <nombre>Patatas Fritas Ruffles Original</nombre>
+    <precio>2.40</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Patatas Fritas</categoria>
+  </producto>
+  <producto>
+    <id>90</id>
+    <nombre>Chicles Doublemint</nombre>
+    <precio>2.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>91</id>
+    <nombre>Galletas María</nombre>
+    <precio>2.50</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Dulces</categoria>
+  </producto>
+  <producto>
+    <id>92</id>
+    <nombre>Patatas Fritas Lay's Rusa</nombre>
+    <precio>2.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Patatas Fritas</categoria>
+  </producto>
+  <producto>
+    <id>93</id>
+    <nombre>Chocolates Hershey's</nombre>
+    <precio>3.50</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chocolates</categoria>
+  </producto>
+  <producto>
+    <id>94</id>
+    <nombre>Chicles Hubba Bubba</nombre>
+    <precio>1.60</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>95</id>
+    <nombre>Gominolas ácidas</nombre>
+    <precio>3.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chuches</categoria>
+  </producto>
+  <producto>
+    <id>96</id>
+    <nombre>Patatas Fritas Lay's Sour Cream</nombre>
+    <precio>2.40</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Patatas Fritas</categoria>
+  </producto>
+  <producto>
+    <id>97</id>
+    <nombre>Galletas Lotus</nombre>
+    <precio>3.30</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Dulces</categoria>
+  </producto>
+  <producto>
+    <id>98</id>
+    <nombre>Chocolates Lindor</nombre>
+    <precio>4.60</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chocolates</categoria>
+  </producto>
+  <producto>
+    <id>99</id>
+    <nombre>Patatas Fritas Pringles Sour Cream</nombre>
+    <precio>2.70</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Patatas Fritas</categoria>
+  </producto>
+  <producto>
+    <id>100</id>
+    <nombre>Chocolates Ferrero Rondnoir</nombre>
+    <precio>5.00</precio>
+    <imagen>placeholder-image.jpg</imagen>
+    <categoria>Chocolates</categoria>
   </producto>
 </productos>

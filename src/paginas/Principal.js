@@ -18,7 +18,7 @@ function Principal() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="placeholder-image.jpg"
+                src="imagendefectogrande.svg"
                 alt="Imagen 1"
               />
               <Carousel.Caption>
@@ -30,7 +30,7 @@ function Principal() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="placeholder-image.jpg"
+                src="imagendefectogrande.svg"
                 alt="Imagen 2"
               />
               <Carousel.Caption>
@@ -42,7 +42,7 @@ function Principal() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="placeholder-image.jpg"
+                src="imagendefectogrande.svg"
                 alt="Imagen 3"
               />
               <Carousel.Caption>
