@@ -69,7 +69,29 @@
         justify-content: space-between;
         align-items: center;
     }
+    
+    .pagination-container {
+        margin-top: 8px;
+    }
 
+    .pagination-container-class {
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .pagination-container-class li {
+        margin: 3px 4px;
+    }
+
+    .pagination-container-class a {
+        padding: 6px 10px;
+        font-size: 12px;
+    }
+
+    .pagination-container-class .previous,
+    .pagination-container-class .next {
+        display: none;
+    }
 }
 
 @media (max-width: 480px) {
@@ -84,6 +106,29 @@
         /* Hacer que el select ocupe todo el ancho en pantallas pequeñas */
         font-size: 0.9rem;
         /* Reducir tamaño de la fuente */
+    }
+
+    .pagination-container {
+        margin-top: 8px;
+    }
+
+    .pagination-container-class {
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .pagination-container-class li {
+        margin: 3px 4px;
+    }
+
+    .pagination-container-class a {
+        padding: 6px 10px;
+        font-size: 12px;
+    }
+
+    .pagination-container-class .previous,
+    .pagination-container-class .next {
+        display: none;
     }
 }
 
